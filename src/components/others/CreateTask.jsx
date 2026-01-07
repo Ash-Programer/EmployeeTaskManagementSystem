@@ -1,5 +1,5 @@
 import React, {useContext, useState } from "react";
-import { AuthContext } from "../../context/AuthProvider";
+import { AuthContext } from "../../context/AuthProvider.jsx";
 
 const CreateTask = ()=>{
     // creating variable or states to store the values of forms

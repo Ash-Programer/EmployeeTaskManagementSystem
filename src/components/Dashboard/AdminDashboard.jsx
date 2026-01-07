@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "../others/Header";
-import CreateTask from "../others/CreateTask";
-import AllTask from "../others/AllTask";
+import Header from "../others/Header.jsx";
+import CreateTask from "../others/CreateTask.jsx";
+import AllTask from "../others/AllTask.jsx";
 
 const AdminDashboard = (props)=>{
     return(
